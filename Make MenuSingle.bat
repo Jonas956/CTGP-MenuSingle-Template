@@ -1,4 +1,5 @@
 @echo off
+ren *.szs MenuSingle.szs
 wszst ex MenuSingle.szs 
 cls
 ren MenuSingle.szs Backup.szs 
